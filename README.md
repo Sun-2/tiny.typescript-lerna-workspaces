@@ -1,0 +1,1 @@
+Lerna (with Yarn workspaces) + Typescript (with project references)

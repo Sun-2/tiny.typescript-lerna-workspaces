@@ -1,0 +1,11 @@
+{
+  "name": "back",
+  "version": "0.0.1",
+  "dependencies": {
+    "share": "0.0.1",
+    "dotenv": "latest"
+  },
+  "scripts": {
+    "build": "yarn tsc --build"
+  }
+}
